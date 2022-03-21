@@ -16,4 +16,4 @@ while True:
 	conn.send('Server Saying from Hi')
 	conn.close()
 	
-#Odgovor: Odnosi se na broj porta(prikljucka) - test
+#Odgovor: Odnosi se na broj porta(prikljucka)
